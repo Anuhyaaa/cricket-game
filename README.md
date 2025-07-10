@@ -65,8 +65,8 @@ flowchart TD
 ```
 
 ## Authors & License
-- Author: [Your Name Here]
-- License: [Specify license if any]
+- Author: Anuhya Pandey
+  
 
 ---
 For more details, see the code comments in each file. 
